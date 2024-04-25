@@ -4,7 +4,7 @@
 #
 Name     : R-fastGHQuad
 Version  : 1.0.1
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/fastGHQuad_1.0.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fastGHQuad_1.0.1.tar.gz
 Summary  : Fast 'Rcpp' Implementation of Gauss-Hermite Quadrature
